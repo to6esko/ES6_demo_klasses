@@ -236,6 +236,7 @@ class Rectangle1 {
 		return this.length * this.width;
 	}
 }
+
 class Square1 extends Rectangle {
 	constructor(length) {
 		super(length, length);
